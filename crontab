@@ -1,0 +1,1 @@
+0 1 * * * /home/timelapse/process.pl > /home/timelapse/process.log
