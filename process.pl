@@ -20,9 +20,3 @@ system($command);
 
 $command = "mv /home/timelapse/camera/output-final.mp4 /home/timelapse/public_html/";
 system($command);
-
-
-
-
-
-
